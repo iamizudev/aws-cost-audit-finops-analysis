@@ -1,0 +1,42 @@
+start_date,end_date,service,cost,currency,estimated
+2026-06-01,2026-07-01,AWS CloudShell,8.78e-08,USD,False
+2026-06-01,2026-07-01,AWS Glue,0.0,USD,False
+2026-06-01,2026-07-01,AWS Key Management Service,0.0916666674,USD,False
+2026-06-01,2026-07-01,AWS Lambda,0.0,USD,False
+2026-06-01,2026-07-01,AWS Secrets Manager,0.0017596702,USD,False
+2026-06-01,2026-07-01,Amazon Elastic Compute Cloud - Compute,2.0310301632,USD,False
+2026-06-01,2026-07-01,Amazon Simple Notification Service,0.0,USD,False
+2026-06-01,2026-07-01,Amazon Simple Queue Service,0.0,USD,False
+2026-06-01,2026-07-01,Amazon Simple Storage Service,0.002680939,USD,False
+2026-06-01,2026-07-01,Amazon Virtual Private Cloud,0.7668,USD,False
+2026-06-01,2026-07-01,AmazonCloudWatch,0.0,USD,False
+2026-06-01,2026-07-01,EC2 - Other,1.2354621456,USD,False
+2026-06-01,2026-07-01,Tax,0.31,USD,False
+2026-07-01,2026-08-01,AWS Glue,0.0,USD,False
+2026-07-01,2026-08-01,AWS Key Management Service,0.0,USD,False
+2026-07-01,2026-08-01,AWS Secrets Manager,5e-06,USD,False
+2026-07-01,2026-08-01,Amazon Elastic Compute Cloud - Compute,1.1090965038,USD,False
+2026-07-01,2026-08-01,Amazon Elastic Load Balancing,0.1008015111,USD,False
+2026-07-01,2026-08-01,Amazon Simple Notification Service,0.0,USD,False
+2026-07-01,2026-08-01,Amazon Simple Queue Service,0.0,USD,False
+2026-07-01,2026-08-01,Amazon Simple Storage Service,0.003416913,USD,False
+2026-07-01,2026-08-01,Amazon Virtual Private Cloud,3.6537375932,USD,False
+2026-07-01,2026-08-01,AmazonCloudWatch,0.0,USD,False
+2026-07-01,2026-08-01,EC2 - Other,3.8591553241,USD,False
+2026-07-01,2026-08-01,Tax,0.65,USD,False
+2026-08-01,2026-09-01,AWS Certificate Manager,7.0,USD,False
+2026-08-01,2026-09-01,AWS Glue,0.0,USD,False
+2026-08-01,2026-09-01,AWS Key Management Service,0.0,USD,False
+2026-08-01,2026-09-01,AWS Secrets Manager,1.5e-05,USD,False
+2026-08-01,2026-09-01,Amazon DynamoDB,1.93305e-05,USD,False
+2026-08-01,2026-09-01,Amazon Elastic Compute Cloud - Compute,1.6840509956,USD,False
+2026-08-01,2026-09-01,Amazon Elastic File System,0.0050393096,USD,False
+2026-08-01,2026-09-01,Amazon Elastic Load Balancing,0.2276126932,USD,False
+2026-08-01,2026-09-01,Amazon Route 53,0.0003672,USD,False
+2026-08-01,2026-09-01,Amazon Simple Notification Service,0.0,USD,False
+2026-08-01,2026-09-01,Amazon Simple Queue Service,0.0,USD,False
+2026-08-01,2026-09-01,Amazon Simple Storage Service,0.0020069378,USD,False
+2026-08-01,2026-09-01,Amazon Virtual Private Cloud,0.4167528,USD,False
+2026-08-01,2026-09-01,AmazonCloudWatch,0.0,USD,False
+2026-08-01,2026-09-01,EC2 - Other,3.5444188633,USD,False
+2026-08-01,2026-09-01,Tax,0.96,USD,False
