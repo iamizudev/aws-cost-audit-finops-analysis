@@ -1,8 +1,11 @@
 # AWS Cost Audit & Cost Optimization Analysis
 
 **Author:** Ozoude Emmanuel Izuchukwu
-**Date:** 9/9/2026
+
+**Date:** Wednesday 9th September 2026
+
 **Project Type:** AWS Cost Audit / FinOps / Cloud Cost Optimization
+
 **Audit Period:** June 2026 – August 2026
 
 ---
@@ -32,7 +35,8 @@ The project was performed on a personal AWS learning environment, which made it 
 # Author Information
 
 **Name:** Ozoude Emmanuel Izuchukwu
-**Date:** 9/9/2026
+
+**Date:** Wednesday 9th September 2026
 
 ---
 
@@ -1121,10 +1125,9 @@ The Python pipeline follows several practices that make it more suitable for rea
 
 AWS credentials and sensitive authentication information are not hardcoded into the Python source code.
 
----
+## Project Structure
 
-# Project Structure
-
+```text
 aws-cost-audit-finops-analysis/
 │
 ├── .venv/
@@ -1135,7 +1138,6 @@ aws-cost-audit-finops-analysis/
 │   │
 │   └── processed/
 │       └── clean_cost_data_....csv
-│
 │
 ├── screenshots/
 │   ├── cost_explorer_3_months.png
@@ -1157,12 +1159,9 @@ aws-cost-audit-finops-analysis/
 │   └── transform.py
 │
 ├── .gitignore
-│
 ├── README.md
-│
 └── requirements.txt
-
----
+```
 
 # Audit Principles
 
@@ -1476,5 +1475,7 @@ This project therefore serves as a practical demonstration of **AWS Cost Auditin
 ---
 
 **Author:** Ozoude Emmanuel Izuchukwu
-**Date:** 9/9/2026
+
+**Date:** Wednesday 9th September 2026
+
 **Project:** AWS Cost Audit & Cost Optimization Analysis
